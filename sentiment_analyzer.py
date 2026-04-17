@@ -1,3 +1,5 @@
+pip install yfinance matplotlib vaderSentiment feedparser
+
 """
 Financial Asset Sentiment Analyzer
 ====================================
